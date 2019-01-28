@@ -1,5 +1,5 @@
 name: "glatos-workshop"
-output_dir: "website"
+output_dir: "."
 navbar:
   title: "GLATOS Workshop 2019"
   left:
